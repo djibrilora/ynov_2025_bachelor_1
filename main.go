@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main4() {
 	var age uint8
 	var prenom string
 	fmt.Print("Quel est votre âge ?")
